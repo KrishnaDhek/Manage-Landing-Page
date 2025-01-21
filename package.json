@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "ailwindcss -i ./src/style.css -o ./build/output.css --watch"
+    "build": "tailwindcss -i ./src/style.css -o ./build/output.css --watch"
   },
   "keywords": [],
   "author": "",
