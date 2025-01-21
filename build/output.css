@@ -919,21 +919,21 @@ video {
 }
 
 body{
-  background-image: url(../Images/bg-tablet-pattern.svg);
+  background-image: url('images/bg-tablet-pattern.svg');
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: 140% -25%;
 }
 
 #features .container {
-  background-image: url(../Images/bg-tablet-pattern.svg);
+  background-image: url('images/bg-tablet-pattern.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: -180% -10%;
 }
 
 #cta {
-  background-image: url(../Images/bg-simplify-section-desktop.svg);
+  background-image: url('images/bg-simplify-section-mobile.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: -130% 100%;
@@ -946,7 +946,7 @@ body{
   }
 
   #cta {
-    background-image: url(../Images/bg-simplify-section-mobile.svg);
+    background-image: url('images/bg-simplify-section-mobile.svg');
   }
 }
 
