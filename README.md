@@ -4,7 +4,7 @@
 
 This project is a responsive landing page built using **Tailwind CSS**. It features a clean design with sections such as a navigation bar, hero section, features, testimonials, call-to-action (CTA), and a footer.
 
-![Tailwind Manage Landing Page](./Images/screen.png)  
+![Tailwind Manage Landing Page](./build//Images/screen.png)  
 
 ## Features
 
