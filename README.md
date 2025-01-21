@@ -1,5 +1,7 @@
 # Manage-Landing-Page
+## Live Demo
 
+Check out the live demo of the landing page here: [Live Demo](https://steady-centaur-b46c0e.netlify.app/)
 
 
 This project is a responsive landing page built using **Tailwind CSS**. It features a clean design with sections such as a navigation bar, hero section, features, testimonials, call-to-action (CTA), and a footer.
